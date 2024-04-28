@@ -27,7 +27,7 @@ public class Forest implements Serializable  {
 
     /**
      * Generates a string representation of the forest, including the forest's name,
-     * the list of trees with their indices, and the average height of the trees. Professor showed code during a lecture
+     * the list of trees with their indexs, and the average height of the trees. Professor showed code during a lecture
      * once on accident, so I used his toString. (sorry)
      *
      * @return a string representation of the forest
